@@ -165,5 +165,6 @@ transition: transform 0.3s ease;
 .read-more:hover{
 color:blue;
 }
-
+#crt{
+font-size:1.1em;}
 
